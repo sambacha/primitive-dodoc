@@ -3,7 +3,6 @@
 /artifacts
 /flatten
 .vscode
-/dist
 .npmrc
 
 # Logs
